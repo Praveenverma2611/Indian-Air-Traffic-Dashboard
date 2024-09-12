@@ -16,7 +16,7 @@ Following are the key features of the dataset corresponding to `50 days of data 
 > 
 > Dataset Link: [Kaggle](https://www.kaggle.com/datasets/shubhambathwal/flight-price-prediction)
 
-Description of the columns:
+### Description of the columns:
 
 1. **Airline**: Represents the name of the airline
 2. **Flight**: The flight code of the aircraft
@@ -30,9 +30,9 @@ Description of the columns:
 10. **Days Left:** The trip date is subtracted from the booking date to arrive at this derived feature.
 11. **Price**: Price of the ticket.
 
-[Power BI Visualization Dashboard](https://github.com/rajmehta26/dataAnalysis/blob/Indian-Airlines-Dataset/indian_airlines_PowerBi.pdf)
+# [Power BI Visualization Dashboard](https://github.com/rajmehta26/dataAnalysis/blob/Indian-Airlines-Dataset/indian_airlines_PowerBi.pdf)
 
-**Key questions answered:** 
+### **Key questions answered:** 
 
 1. What is the average flight duration between cities?
 2. Which is the fastest airline between any two choosen cities?
@@ -40,3 +40,8 @@ Description of the columns:
 4. What time of the day is the cheapest time to fly between any two choosen cities?
 5. What is the average price in Economy class?
 6. What is the avergae price in Business class? 
+
+
+## DASHBOARD Preview
+![Screenshot 2024-09-11 232352](https://github.com/user-attachments/assets/c220e2cd-7f3e-45d9-a6ab-84495e57116d)
+
